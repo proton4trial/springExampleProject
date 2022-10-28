@@ -11,7 +11,7 @@
 	<groupId>main.java.com.mayank</groupId>
 	<artifactId>studentTutorial</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>studentTutorial</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
